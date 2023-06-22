@@ -4,7 +4,6 @@ categories: [ICS Security, ICS]
 tags: [ics security]     # TAG names should always be lowercase
 ---
 
-# Introduction
 
 In today's interconnected world, critical infrastructure is facing unprecedented cyber risks. Industrial control systems (ICS), from power grids to transportation systems, are increasingly being targeted by bad actors looking to sabotage operations and create general disorder. In order to protect our vital infrastructure in the digital age, this blog post examines the growing risks and highlights the urgent necessity for strong security measures.
 
