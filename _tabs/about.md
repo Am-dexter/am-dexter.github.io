@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I am a Cyber security professional with experience in developing and implementing comprehensive strategies, identifying and mitigating cyber threats, and collaborating with stakeholders to execute effective security programs. Strong communicator with a proven track record of leading cross-functional teams and staying up-to-date with industry trends and technologies.
